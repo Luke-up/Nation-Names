@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+//navbar containing links to the search input page and a list of possible countries
 function Navigation() {
   return (
     <div className="container rounded bg-secondary text-light py-4 text-center">
